@@ -1,0 +1,7 @@
+*.pdf
+istruzioni.txt
+*.xlsx
+.vscode/
+__pycache__/
+*.dat
+*.pck
